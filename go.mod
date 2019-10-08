@@ -9,7 +9,7 @@ require (
 	github.com/cespare/xxhash v1.1.0
 	github.com/docker/cli v0.0.0-20190906153656-016a3232168d
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker v0.0.0-20181126153310-0b7cb16dde4a20d024c7be59801d63bcfd18611b
+	github.com/docker/docker v0.0.0-20181126153310-0b7cb16dde4a
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
